@@ -27,11 +27,20 @@
 
 ## ⬇️ 下载安装
 
-| 版本 | 架构 | 系统要求 | 文件 |
-|------|------|---------|------|
-| **1.0.0** | Universal（Intel + Apple Silicon） | macOS 14+ | [轻舟-1.0.0-universal.dmg](./轻舟-1.0.0-universal.dmg) |
+<div align="center">
 
-也可以从 [Releases](https://github.com/bh3hbr/QingZhou-App/releases/latest) 页面获取最新版本。
+### [⬇️ 前往 Releases 下载最新版](https://github.com/bh3hbr/QingZhou-App/releases/latest)
+
+[![Latest Release](https://img.shields.io/github/v/release/bh3hbr/QingZhou-App?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=brightgreen)](https://github.com/bh3hbr/QingZhou-App/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/bh3hbr/QingZhou-App/total?label=%E7%B4%AF%E8%AE%A1%E4%B8%8B%E8%BD%BD&color=blue)](https://github.com/bh3hbr/QingZhou-App/releases)
+
+</div>
+
+| 版本 | 架构 | 系统要求 | 下载 |
+|------|------|---------|------|
+| **1.0.0** | Universal（Intel + Apple Silicon） | macOS 14+ | [📦 轻舟-1.0.0-universal.dmg](https://github.com/bh3hbr/QingZhou-App/releases/download/v1.0.0/%E8%BD%BB%E8%88%9F-1.0.0-universal.dmg) |
+
+> 所有历史版本均可在 [Releases 页面](https://github.com/bh3hbr/QingZhou-App/releases) 获取。
 
 ### 安装步骤
 
